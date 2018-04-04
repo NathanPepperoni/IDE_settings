@@ -23,3 +23,4 @@ def retrieve_workspace():
 
 if __name__ == "__main__":
     move_files(retrieve_workspace())
+    input("press enter to exit")
